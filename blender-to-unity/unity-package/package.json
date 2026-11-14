@@ -2,9 +2,12 @@
   "name": "com.robloxbridge.importer",
   "version": "1.0.0",
   "displayName": "Roblox Bridge Importer",
-  "description": "Imports models exported by the Roblox Bridge -> Unity Blender add-on: opens an export folder, copies it into the project, builds materials from the exported textures, creates the Roblox lights and applies Roblox scene lighting (Roblox's light falloff, tonemapper and sky). Window: Window > Roblox Bridge. More: Tools > Roblox Bridge.",
+  "description": "Imports models exported by the Roblox Bridge -> Unity Blender add-on: opens an export folder, copies it into the project, builds materials from the exported textures and creates the Roblox lights. Window: Window > Roblox Bridge.",
   "unity": "2021.3",
   "documentationUrl": "https://github.com/obaba-samich/roblox-blender-bridge/tree/main/blender-to-unity",
   "license": "MIT",
-  "author": { "name": "obaba-samich", "url": "https://github.com/obaba-samich" }
+  "author": {
+    "name": "obaba-samich",
+    "url": "https://github.com/obaba-samich"
+  }
 }
