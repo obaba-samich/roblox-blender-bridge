@@ -1,0 +1,305 @@
+{
+ "source": "https://create.roblox.com/docs/parts/materials#asset-and-property-reference",
+ "studs_per_tile": 8.0,
+ "current": {
+  "Asphalt": {
+   "color": "9930003046",
+   "normal": "9429449876",
+   "roughness": "9429450346"
+  },
+  "Basalt": {
+   "color": "9920482056",
+   "normal": "9438412214",
+   "roughness": "9438412457"
+  },
+  "Brick": {
+   "color": "9920482813",
+   "normal": "9438453152",
+   "roughness": "9438453413"
+  },
+  "Cardboard": {
+   "color": "14108651729",
+   "normal": "14108654002",
+   "roughness": "14108654299"
+  },
+  "Carpet": {
+   "color": "14108662587",
+   "normal": "14108663154",
+   "roughness": "14108663726"
+  },
+  "CeramicTiles": {
+   "color": "17429425079",
+   "normal": "17429425915",
+   "metalness": "17429426100",
+   "roughness": "17429426861"
+  },
+  "ClayRoofTiles": {
+   "color": "18147681935",
+   "normal": "18147683410",
+   "roughness": "18147684855"
+  },
+  "Cobblestone": {
+   "color": "9919718991",
+   "normal": "9438457162",
+   "roughness": "9438457470"
+  },
+  "Concrete": {
+   "color": "9920484153",
+   "normal": "9466554006",
+   "roughness": "9466554186"
+  },
+  "CorrodedMetal": {
+   "color": "9920589327",
+   "normal": "9439548484",
+   "metalness": "9439548749",
+   "roughness": "9439556441"
+  },
+  "CrackedLava": {
+   "color": "9920484943",
+   "normal": "9438508790",
+   "roughness": "9438509046"
+  },
+  "DiamondPlate": {
+   "color": "10237720195",
+   "normal": "9438583222",
+   "metalness": "9438583347",
+   "roughness": "9438583558"
+  },
+  "Fabric": {
+   "color": "9920517696",
+   "normal": "9873280412",
+   "roughness": "9873282563"
+  },
+  "Foil": {
+   "color": "9466552117",
+   "normal": "9424786192",
+   "metalness": "9424786272",
+   "roughness": "9424786620"
+  },
+  "Glacier": {
+   "color": "9920518732",
+   "normal": "9438812958",
+   "roughness": "9438851286"
+  },
+  "Glass": {
+   "color": "9438868521",
+   "normal": "7547304785",
+   "roughness": "7547304892"
+  },
+  "Granite": {
+   "color": "9920550238",
+   "normal": "9438882935",
+   "roughness": "9438883109"
+  },
+  "Grass": {
+   "color": "9920551868",
+   "normal": "9438955773",
+   "roughness": "9438955997"
+  },
+  "Ground": {
+   "color": "9920554482",
+   "normal": "9439043558",
+   "roughness": "9439043765"
+  },
+  "Ice": {
+   "color": "9920555943",
+   "normal": "9467301039",
+   "roughness": "9467301203"
+  },
+  "LeafyGrass": {
+   "color": "9920557906",
+   "normal": "9439080781",
+   "roughness": "9439080950"
+  },
+  "Leather": {
+   "color": "14108670073",
+   "normal": "14108670486",
+   "roughness": "14108670748"
+  },
+  "Limestone": {
+   "color": "9920561437",
+   "normal": "9439415191",
+   "roughness": "9439415495"
+  },
+  "Marble": {
+   "color": "9439430596",
+   "normal": "9439431240",
+   "roughness": "9439431383"
+  },
+  "Metal": {
+   "color": "9920574687",
+   "normal": "9873295432",
+   "metalness": "9873318201",
+   "roughness": "9873318890"
+  },
+  "Mud": {
+   "color": "9920578473",
+   "normal": "9439509827",
+   "roughness": "9439510012"
+  },
+  "Pavement": {
+   "color": "9920579943",
+   "normal": "9439519281",
+   "roughness": "9439519532"
+  },
+  "Pebble": {
+   "color": "9920581082",
+   "normal": "9439528644",
+   "roughness": "9439537267"
+  },
+  "Plaster": {
+   "color": "14108671255",
+   "normal": "14108671870",
+   "roughness": "14108672378"
+  },
+  "Rock": {
+   "color": "9920587470",
+   "normal": "9439538417",
+   "roughness": "9439545859"
+  },
+  "RoofShingles": {
+   "color": "119722544879522",
+   "normal": "77534750680073",
+   "roughness": "129397260312247"
+  },
+  "Rubber": {
+   "color": "14108673018",
+   "normal": "14108674698",
+   "metalness": "14108674894",
+   "roughness": "14108675142"
+  },
+  "Salt": {
+   "color": "9920590225",
+   "normal": "9439565809",
+   "roughness": "9439566688"
+  },
+  "Sand": {
+   "color": "9920591683",
+   "normal": "9439577084",
+   "roughness": "9439577327"
+  },
+  "Sandstone": {
+   "color": "9920596120",
+   "normal": "9439596530",
+   "roughness": "9439596711"
+  },
+  "Slate": {
+   "color": "9920599782",
+   "normal": "9439612514",
+   "roughness": "9439612733"
+  },
+  "Snow": {
+   "color": "9920620284",
+   "normal": "9439632006",
+   "roughness": "9439632145"
+  },
+  "Wood": {
+   "color": "9920625290",
+   "normal": "9439641376",
+   "roughness": "9439648605"
+  },
+  "WoodPlanks": {
+   "color": "9920626778",
+   "normal": "9439650689",
+   "roughness": "9439658127"
+  }
+ },
+ "pre2022": {
+  "Brick": {
+   "color": "7546648254",
+   "normal": "7546649654",
+   "roughness": "7546650017"
+  },
+  "Cobblestone": {
+   "color": "7546651802",
+   "normal": "7546652689",
+   "roughness": "7546652892"
+  },
+  "Concrete": {
+   "color": "7546653328",
+   "normal": "7546653707",
+   "roughness": "7546653868"
+  },
+  "CorrodedMetal": {
+   "color": "7547183598",
+   "normal": "7547181182",
+   "metalness": "7547184321",
+   "roughness": "7547184588"
+  },
+  "DiamondPlate": {
+   "color": "7546654401",
+   "normal": "7546654536",
+   "metalness": "7547162002",
+   "roughness": "7547162137"
+  },
+  "Fabric": {
+   "color": "7547100606",
+   "normal": "7547100915",
+   "roughness": "7547101072"
+  },
+  "Foil": {
+   "color": "7546644642",
+   "normal": "7546644903",
+   "metalness": "7546644642",
+   "roughness": "7546644963"
+  },
+  "Glass": {
+   "color": "7547304577",
+   "normal": "7547304785",
+   "roughness": "7547304892"
+  },
+  "Granite": {
+   "color": "7547164400",
+   "normal": "7546654648",
+   "roughness": "7547164660"
+  },
+  "Grass": {
+   "color": "7547167347",
+   "normal": "7547168653",
+   "roughness": "7547169207"
+  },
+  "Ice": {
+   "color": "7546644642",
+   "normal": "7547171198",
+   "roughness": "7547171276"
+  },
+  "Marble": {
+   "color": "7547174345",
+   "normal": "7547176060",
+   "roughness": "7547177213"
+  },
+  "Metal": {
+   "color": "7547178395",
+   "normal": "7547287997",
+   "metalness": "7547288112",
+   "roughness": "7547179082"
+  },
+  "Pebble": {
+   "color": "7547291174",
+   "normal": "7546645052",
+   "roughness": "7547291306"
+  },
+  "Sand": {
+   "color": "7547294684",
+   "normal": "7547294810",
+   "roughness": "7547295087"
+  },
+  "Slate": {
+   "color": "7547297050",
+   "normal": "7547297808",
+   "roughness": "7547298051"
+  },
+  "Wood": {
+   "color": "7547190453",
+   "normal": "7547190548",
+   "metalness": "7547190619",
+   "roughness": "7547303147"
+  },
+  "WoodPlanks": {
+   "color": "7547301709",
+   "normal": "7547188159",
+   "metalness": "7547188891",
+   "roughness": "7547332869"
+  }
+ }
+}

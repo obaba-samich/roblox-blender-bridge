@@ -1,0 +1,12 @@
+{
+  "name": "RobloxBridge.Editor",
+  "references": [
+    "RobloxBridge.Runtime"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "autoReferenced": true
+}

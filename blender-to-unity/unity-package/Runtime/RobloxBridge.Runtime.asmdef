@@ -1,0 +1,8 @@
+{
+  "name": "RobloxBridge.Runtime",
+  "references": [],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "autoReferenced": true
+}
